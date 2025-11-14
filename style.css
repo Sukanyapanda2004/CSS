@@ -1,10 +1,13 @@
 body{
-    background-color: aqua;
-}
-button{
         background-color: violet;
     }
-    button{
-        color: bisque;
+    .heading1{
+        color: blanchedalmond;
+    }
+    #hloo{
+        color: aqua;
+    }
+    #heading3{
+        color: darkorange;
     }
     
